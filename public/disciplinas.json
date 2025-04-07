@@ -1,0 +1,38 @@
+{
+    "2024": {
+      "titulo": "📚 Disciplinas Técnicas - 2024",
+      "descricao": "Lista de disciplinas do curso e o que foi estudado",
+      "materias": [
+        {
+          "nome": "Lógica de programação",
+          "descricao": "Lógica de programação e algoritmos básicos utilizando Python"
+        },
+        {
+          "nome": "Ciência da computação",
+          "descricao": "Como funciona um computador e conversão de bases decimais"
+        },
+        {
+          "nome": "Análise e projeto de sistemas",
+          "descricao": "Métodos de organização de processos e trabalho em equipe"
+        }
+      ]
+    },
+    "2025": {
+      "titulo": "📚 Disciplinas Técnicas - 2025",
+      "descricao": "Lista de disciplinas do curso que estou estudando",
+      "materias": [
+        {
+          "nome": "Programação front-end",
+          "descricao": "Desenvolvimento de páginas web com HTML, CSS, JS e React"
+        },
+        {
+          "nome": "Programação mobile",
+          "descricao": "Desenvolvimento de apps mobile utilizando React Native"
+        },
+        {
+          "nome": "Banco de dados",
+          "descricao": "Entendendo o conceito de banco de dados e desenvolvendo na prática"
+        }
+      ]
+    }
+  }

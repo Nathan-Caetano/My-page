@@ -1,0 +1,21 @@
+#habilidades-container ul {
+    list-style: none;
+    columns: 2;
+  }
+  
+  #habilidades-container ul li {
+    margin-bottom: 5px;
+    gap: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  #habilidades-container ul h2 {
+    font-size: 18px;
+  }
+  
+  #habilidades-container ul svg {
+    height: 20px;
+    width: 20px;
+  }

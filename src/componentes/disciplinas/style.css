@@ -1,0 +1,13 @@
+.curso article {
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    background-color: #a0a0a0;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+.curso article h2 {
+    font-size: medium;
+}
