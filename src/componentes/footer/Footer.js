@@ -17,9 +17,9 @@ const Footer = () => {
                 <div class="footer-section">
                     <h3>Redes Sociais</h3>
                     <div class="social">
-                        <a href="#">Instagram</a>
-                        <a href="#">GitHub</a>
-                        <a href="#">Linkedin</a>
+                        <a href="https://www.instagram.com/ocaetan0/" target='blank_' rel='noopener noreferrer'>Instagram</a>
+                        <a href="https://github.com/Nathan-Caetano" target='blank_' rel='noopener noreferrer'>GitHub</a>
+                        <a href="https://www.linkedin.com/in/than-caetano/" target='blank_' rel='noopener noreferrer'>Linkedin</a>
                     </div>
                 </div>
             </div>
