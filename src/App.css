@@ -24,7 +24,7 @@ main {
 }
 
 .section-title{
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 /* dark mode */
@@ -44,8 +44,8 @@ body.dark-mode .header-inner-content h1 {
 }
 
 body.dark-mode .container {
-  background-color: #2A2A2A;
-  box-shadow: 20px 20px 60px #111, -20px -20px 60px #333;
+  background-color: #1E1E1E;
+  box-shadow: 10px 10px 20px #111, 0px 0px 0px;
 }
 
 body.dark-mode footer {
